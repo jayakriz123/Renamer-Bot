@@ -28,7 +28,7 @@ class Scripted(object):
 │
 ├<b>🤖 Bot Name : <a href='https://t.me/Renamer_teleroid_bot'>Rename X2 Bot</a></b>
 │
-├<b>📢 Channel : <a href='https://t.me/TeleRoidGroup'>TÉLÉRØÎD</a></b>
+├<b>📢 Channel : 🔰vv🔰
 │
 ├<b>👥 Version : <a href='https://t.me/TeleRoid_Renamer_bot'>0.9.2 beta</a></b>
 │
@@ -40,9 +40,6 @@ class Scripted(object):
 │
 ├<b>㊙ Language: <a href='https://www.python.org'>Python 3.9.4</a></b>
 │
-├<b>👨‍💻 Developer : <a href='https://t.me/PredatorHackerZ'>@Pred∆tor</a></b>
-│
-├<b>🚸 Powered By : <a href='https://t.me/Moviesflixers_DL'>@HindiWebNetwork</a></b>
 │
 ╰──────[Thanks 😊]───⍟"""
 
